@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![x](https://user-images.githubusercontent.com/15829091/151238302-166d562c-5dfd-4517-9025-e6220bfeddc8.gif)
+
 - 🔭 I’m currently working with Typescript/Javascript.
 - 🌱 I’m currently learning Golang 🔵
 - ⚡ Fun fact: I'm a metal/deathcore fan, favourite band: **Make Them Suffer** / I ❤️ cooking / R6s gold player 
 - Stacks: Python, C++, Js/Ts, Go, R
+
