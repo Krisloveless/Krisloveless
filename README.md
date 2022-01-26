@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Typescript/Javascript.
 - 🌱 I’m currently learning Golang 🔵
-- ⚡ Fun fact: I'm a metal/deathcore fan, favourite band: **Make Them Suffer** / I ❤️ cooking / R6s gold player 
+- ⚡ Fun fact: I'm a metal-deathcore fan 🎙️ 🎸 🥁, favourite band: **Make Them Suffer**  / I ❤️ cooking / R6s 🔫 gold player 
 - Stacks: Python, C++, Js/Ts, Go, R
 
