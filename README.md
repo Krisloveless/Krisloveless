@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 - ⚡ Fun fact: I'm a metal-deathcore fan 🎙️ 🎸 🥁, favourite band: **Make Them Suffer**  / I ❤️ cooking / R6s 🔫 gold player 
-- Stacks: Python, C++, Js/Ts, Go, R
+- Stacks: Python, C++, Java, Js/Ts, Go, R
 - 📫 Dev @ Amazon EventBridge
