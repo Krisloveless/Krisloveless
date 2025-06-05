@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![x](https://user-images.githubusercontent.com/15829091/151238302-166d562c-5dfd-4517-9025-e6220bfeddc8.gif)
 
 
-- ⚡ Fun fact: I'm a metal-deathcore fan 🎙️ 🎸 🥁, favourite band: **Make Them Suffer**  / I ❤️ cooking / R6s 🔫 gold player / Now I dota a lot 🌱
+- ⚡ Fun fact: I'm a metal-deathcore fan 🎙️ 🎸 🥁, favourite band: **Make Them Suffer**  / I ❤️ cooking / R6s 🔫 gold player / Now I dota a lot 🌱 (Already Immortal)
 - Stacks: Python, C++, Java, Js/Ts, Go, R
-- 📫 Dev @ Amazon EventBridge
+- 📫 Dev @ Amazon MarketPlace
